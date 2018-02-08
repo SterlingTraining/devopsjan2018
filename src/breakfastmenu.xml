@@ -1,6 +1,10 @@
 <breakfast_menu>
 <food>
+<<<<<<< HEAD
 <title attr="test">Sterling IT Menu</title>
+=======
+<title>Sterling IT Menu</title>
+>>>>>>> branch 'master' of https://github.com/SterlingTraining/devopsjan2018.git
 <name>Belgian Waffles</name>
 <price>$7.95</price>
 <description>
