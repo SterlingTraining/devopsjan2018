@@ -1,6 +1,6 @@
 <breakfast_menu>
 <food>
-<title>Sterling Menu</title>
+<title attr="test">Sterling IT Menu</title>
 <name>Belgian Waffles</name>
 <price>$7.95</price>
 <description>
